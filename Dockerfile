@@ -1,1 +1,1 @@
-FROM bitnami/kube-state-metrics:2.5.0
+FROM docker.io/flannel/flannel-cni-plugin:v1.1.2
