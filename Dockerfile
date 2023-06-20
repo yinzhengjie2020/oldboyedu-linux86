@@ -1,1 +1,1 @@
-FROM docker.io/flannel/flannel:v0.22.0
+FROM tomcat:8.5.90
